@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "* * * * 3"}]
+  schedule: [{cron: "* * * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
