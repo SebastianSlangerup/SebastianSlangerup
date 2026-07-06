@@ -1,5 +1,5 @@
 # 👋
-My name's Sebastian - I am a full-stack developer at [Ephort ApS](http://ephort.dk) where I help build web solutions for other companies.
+My name's Sebastian - I am a full-stack developer.
 
 Throughout my career I have worked with the following technologies at a comfortable and professional level:
 
